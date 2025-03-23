@@ -1,4 +1,4 @@
-# 🦄 Anjali Sharma  
+# 🦄 Hi, I am Anjali <3 
 ### *Java Enthusiast | Web Developer | Open Source Contributor | Software Developer*
 
 > *Passionate about coding, web development, and creating impactful projects!*  
@@ -6,14 +6,13 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 Pursuing B.Tech in Computer Science (*Graduating in Sept 2025*)  
-- 🏫 Studied at **Vidyashram** – **89.50% in 10th** | **96.80% in 12th**  
+- 🎓 Pursuing B.Tech in Computer Science (**Graduating in Sept 2025**)  
+- 🏫 "Secondary" – **89.50% in 10th** | "Senior Secondary" - **96.80% in 12th**  
 - 💻 Strong in **Java, MySQL, Python, HTML, CSS, JavaScript, Bootstrap, Figma**  
 - 🏆 **Public Speaker** | Finalist at *National Environment Youth Parliament*  
-- 🎭 College **Event Host & Cultural Performer**  
-- 🏅 **Branch Representative** at CSE Dept.  
+- 🎭 College **Event Host & Cultural Performer** 
 - 🌍 **Open Source Contributor** in *GirlScript Summer of Code*  
-- 💼 **Frontend Developer Intern** at *Kaamup Pvt. Ltd.*  
+- 💼 **Frontend Developer Intern**
 
 ---
 
@@ -48,4 +47,4 @@
 
 ---
 
-✨ *"Code, create, and innovate every day!"* 🚀  
+✨ *"Code, create, and innovate every day! <3 "* 🚀  
