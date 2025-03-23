@@ -1,5 +1,5 @@
-# 🦄 Anjali Sharma | Software Developer  
-### *Java Enthusiast | Web Developer | Open Source Contributor*  
+# 🦄 Anjali Sharma  
+### *Java Enthusiast | Web Developer | Open Source Contributor | Software Developer*
 
 > *Passionate about coding, web development, and creating impactful projects!*  
 
@@ -21,6 +21,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -32,10 +33,10 @@
 
 | 🚀 Project | 🔍 Description |  
 |------------|--------------|  
-| [📌 Hotel Reservation System](https://github.com/anjalisharma/hotel-reservation) | A Java-based system for seamless hotel bookings |  
-| [📌 Student Grade Tracker](https://github.com/anjalisharma/grade-tracker) | A tool to track and analyze student grades efficiently |  
-| [📌 Language Translator](https://ajslangtrans.ccbp.tech) | A responsive translator using **Lingva API** |  
-| [📌 Portfolio Website](https://github.com/anjalisharma/portfolio) | A creative and modern portfolio built using **HTML, CSS & JS** |  
+| [🤖 AI Chatbot](https://github.com/anjalisharma/ai-chatbot) | An AI-powered chatbot that interacts with users |  
+| [🎨 AI Image Generator](https://github.com/anjalisharma/ai-img-generator) | Generates images using AI models |  
+| [🌐 Language Translator](https://github.com/anjalisharma/language-translator) | A responsive translator using **Lingva API** |  
+| [📚 Library Management System](https://github.com/anjalisharma/library-management) | A Java-based system to manage library books and users |  
 
 ---
 
