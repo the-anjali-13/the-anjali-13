@@ -1,14 +1,58 @@
-👋 Hi  Viewers, I’m Anjali Sharma, a computer science student passionate about web development, backend development, and creating unique projects. Currently pursuing my third year in computer science engineering, I'm also a fellow at CCBP 4.0 Academy | Nxt Wave. I have a strong foundation in Java, MySQL, JDBC, Servlets, frontend development (HTML & CSS), and more, eager to showcase my projects using these technologies and beyond on this platform.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anjali Sharma | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 class="title">Anjali Sharma</h1>
+        <p class="subtitle">Software Developer | Java Enthusiast | Web Developer</p>
+    </header>
+    
+    <section class="about">
+        <h2>About Me</h2>
+        <p>I'm a passionate software developer with expertise in Java, MySQL, and web development. I love building functional and creative projects that make an impact!</p>
+    </section>
+    
+    <section class="projects">
+        <h2>Projects</h2>
+        <div class="project-card">
+            <h3>Hotel Reservation System</h3>
+            <p>A Java-based system for seamless hotel bookings.</p>
+        </div>
+        <div class="project-card">
+            <h3>Student Grade Tracker</h3>
+            <p>A tool to track and analyze student grades efficiently.</p>
+        </div>
+    </section>
+    
+    <section class="skills">
+        <h2>Skills</h2>
+        <div class="skills-list">
+            <span>Java</span>
+            <span>JavaScript</span>
+            <span>MySQL</span>
+            <span>HTML & CSS</span>
+            <span>Bootstrap</span>
+        </div>
+    </section>
+    
+    <section class="contact">
+        <h2>Get in Touch</h2>
+        <div class="social-icons">
+            <a href="https://github.com/anjalisharma" target="_blank">GitHub</a>
+            <a href="https://linkedin.com/in/anjalisharma" target="_blank">LinkedIn</a>
+            <a href="mailto:anjali@example.com">Email</a>
+        </div>
+    </section>
 
-💞️ I’m looking to collaborate on projects to enhance my skills, especially interested in open-source contributions, team projects, and collaborative opportunities. If I can contribute by my skills, I'll be grateful to join such initiatives.
-
-🌱 I hold a certificate in Java, reflecting my commitment to continuous learning and professional development. As a beginner, I seek support and guidance to improve with each project I create. I'm also eager to learn ReactJS, JavaScript, Node.js, and MongoDB to broaden my skill set.
-
-📫 You can reach me through my LinkedIn (www.linkedin.com/in/anjali-sharma-902770226) and email.
-
-⚡ Fun fact: Besides coding, my hobbies include drawing and sketching. I also excel in public speaking, having hosted events in my college and receiving recognition for my team's performance.
-
-<!---
-the-anjali-13/the-anjali-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <footer>
+        <p>Made with ❤️ by Anjali Sharma</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
